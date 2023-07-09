@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 import Banner from "./Banner";
 import Product from "./Product";
 
-function App() {
+function App() { 
   return (
     <div>
       <Navbar />
